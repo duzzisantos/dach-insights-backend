@@ -170,3 +170,4 @@
 /Users/user/germany-dashboard/backend/tests/GermanyDashboard.Tests/obj/Debug/net10.0/GermanyDashboard.Tests.pdb
 /Users/user/germany-dashboard/backend/tests/GermanyDashboard.Tests/obj/Debug/net10.0/GermanyDashboard.Tests.genruntimeconfig.cache
 /Users/user/germany-dashboard/backend/tests/GermanyDashboard.Tests/obj/Debug/net10.0/ref/GermanyDashboard.Tests.dll
+/Users/user/germany-dashboard/backend/tests/GermanyDashboard.Tests/obj/Debug/net10.0/GermanyDashboard.Tests.sourcelink.json

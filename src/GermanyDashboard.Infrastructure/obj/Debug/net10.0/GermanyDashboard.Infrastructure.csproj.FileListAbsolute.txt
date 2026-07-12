@@ -63,3 +63,4 @@
 /Users/user/germany-dashboard/backend/src/GermanyDashboard.Infrastructure/obj/Debug/net10.0/GermanyDashboard.Infrastructure.pdb
 /Users/user/germany-dashboard/backend/src/GermanyDashboard.Infrastructure/obj/Debug/net10.0/GermanyDashboard.Infrastructure.genruntimeconfig.cache
 /Users/user/germany-dashboard/backend/src/GermanyDashboard.Infrastructure/obj/Debug/net10.0/ref/GermanyDashboard.Infrastructure.dll
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Infrastructure/obj/Debug/net10.0/GermanyDashboard.Infrastructure.sourcelink.json
