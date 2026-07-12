@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GermanyDashboard.Api/GermanyDashboard.Api.csproj" />
+    <Project Path="src/GermanyDashboard.Application/GermanyDashboard.Application.csproj" />
+    <Project Path="src/GermanyDashboard.Domain/GermanyDashboard.Domain.csproj" />
+    <Project Path="src/GermanyDashboard.Infrastructure/GermanyDashboard.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GermanyDashboard.Tests/GermanyDashboard.Tests.csproj" />
+  </Folder>
+</Solution>

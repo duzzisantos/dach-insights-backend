@@ -1,0 +1,15 @@
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/bin/Debug/net10.0/GermanyDashboard.Application.deps.json
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/bin/Debug/net10.0/GermanyDashboard.Application.dll
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/bin/Debug/net10.0/GermanyDashboard.Application.pdb
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/bin/Debug/net10.0/GermanyDashboard.Domain.dll
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/bin/Debug/net10.0/GermanyDashboard.Domain.pdb
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/GermanyDashboard.Application.csproj.AssemblyReference.cache
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/GermanyDashboard.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/GermanyDashboard.Application.AssemblyInfoInputs.cache
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/GermanyDashboard.Application.AssemblyInfo.cs
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/GermanyDashboard.Application.csproj.CoreCompileInputs.cache
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/GermanyD.2A43860D.Up2Date
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/GermanyDashboard.Application.dll
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/refint/GermanyDashboard.Application.dll
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/GermanyDashboard.Application.pdb
+/Users/user/germany-dashboard/backend/src/GermanyDashboard.Application/obj/Debug/net10.0/ref/GermanyDashboard.Application.dll
